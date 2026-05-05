@@ -4354,6 +4354,340 @@
 					}
 				}
 			]
+		},
+		{
+			"timestamp": "2026-05-05T10:00:22.370Z",
+			"afterHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+			"operations": [
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-2yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-2yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-2yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-3yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-3yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-3yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-4yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-4yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-4yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-5yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-5yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-5yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-green-fixed-5yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-green-fixed-5yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-green-fixed-5yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-7yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-7yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-fixed-7yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-fixed-3yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-fixed-3yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-fixed-3yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-fixed-5yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-fixed-5yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-fixed-5yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-green-fixed-5yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-green-fixed-5yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-green-fixed-5yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-variable-50"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-variable-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-variable-70"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-variable-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-variable-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-btl-variable-50"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-btl-variable-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-btl-variable-70"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-btl-fixed-3yr-70"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-btl-fixed-5yr-70"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-2yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-3yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-5yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-green-fixed-5yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-7yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-btl-variable-50"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-btl-variable-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-btl-variable-70"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-2yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-2yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-3yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-3yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-5yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-5yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-green-fixed-5yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-green-fixed-5yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-7yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-fixed-7yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-fixed-3yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-fixed-3yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-fixed-3yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-fixed-5yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-fixed-5yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-fixed-5yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-green-fixed-5yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-green-fixed-5yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-green-fixed-5yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-variable-50"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-variable-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-variable-70"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-variable-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-variable-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-variable-100"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-green-fixed-3yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-green-fixed-3yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-green-fixed-3yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-green-fixed-3yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-green-fixed-3yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-hv-green-fixed-3yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-green-fixed-3yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-green-fixed-3yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-green-fixed-3yr-90"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-green-fixed-3yr-60"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-green-fixed-3yr-80"
+				},
+				{
+					"op": "remove",
+					"id": "ptsb-existing-hv-green-fixed-3yr-90"
+				}
+			]
 		}
 	]
 }
