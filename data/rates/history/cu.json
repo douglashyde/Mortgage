@@ -197,6 +197,16 @@
 					}
 				}
 			]
+		},
+		{
+			"timestamp": "2026-06-07T10:26:31.222Z",
+			"afterHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+			"operations": [
+				{
+					"op": "remove",
+					"id": "cu-capped-variable"
+				}
+			]
 		}
 	]
 }
